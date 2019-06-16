@@ -42,10 +42,9 @@ figcaption {
   margin-top: 0.5%;
   text-align: center;
   font-size: 12px;
-  background-color: lightgrey;
 }
 
 #details {
   height: 110px;
-
+  background-color: lightgrey;
 }
